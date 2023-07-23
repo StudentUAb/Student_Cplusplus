@@ -1,0 +1,3 @@
+/Users/ivobaptista/Desktop/UAb_Disciplinas/APROVADAS/21093 - Programação por Objectos/TOP Programs/student-master/out/CMakeFiles/student.dir
+/Users/ivobaptista/Desktop/UAb_Disciplinas/APROVADAS/21093 - Programação por Objectos/TOP Programs/student-master/out/CMakeFiles/edit_cache.dir
+/Users/ivobaptista/Desktop/UAb_Disciplinas/APROVADAS/21093 - Programação por Objectos/TOP Programs/student-master/out/CMakeFiles/rebuild_cache.dir
